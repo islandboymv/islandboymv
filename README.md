@@ -2,7 +2,7 @@
 
 ## Also known as IslandBoyMv 🏝️
 
-🌍 **Full Stack Developer | Self-taught Enthusiast**
+🌍 **Full Stack Developer | Self-taught Enthusiast** 🚀
 
 ---
 
@@ -15,6 +15,7 @@ I specialize in creating efficient and scalable web applications using **PHP** a
 - **Containerization:** Utilizing Docker for containerized application deployment.
 - **Cloud Services:** Working with Cloudflare for DNS and security, and DigitalOcean for cloud hosting.
 - **Virtualization:** Utilizing Proxmox VE for virtual environments.
+- **Scouting:** Serving as the Headquarter Commissioner ICT at [The Scout Association of Maldives](https://scout.mv).
 
 ### Tech Stack 🛠️
 - **Languages:** PHP, JavaScript, HTML, CSS
@@ -22,9 +23,10 @@ I specialize in creating efficient and scalable web applications using **PHP** a
 - **Tools:** Docker, Git, Nginx, Proxmox VE
 - **Databases:** MySQL, PostgreSQL
 - **Cloud Services:** Cloudflare, DigitalOcean
+- **Microsoft 365 Integration:** Utilizing Microsoft Exchange, Entra, SharePoint, and other Microsoft 365 tools for seamless collaboration and productivity. 📊
 
 ### Get in Touch 📲
 - **Email:** [admin@islandboy.mv](mailto:admin@islandboy.mv)
-- **Twitter:** [<i class="fab fa-twitter"></i> @IslandBoyMv](https://twitter.com/IslandBoyMv)
-- **Instagram:** [<i class="fab fa-instagram"></i> @islandboy_mv](https://instagram.com/islandboy_mv)
-- **Facebook:** [<i class="fab fa-facebook"></i> IslandBoyMv](https://facebook.com/islandboymv)
+- **Twitter:** [❌ @IslandBoyMv](https://twitter.com/IslandBoyMv)
+- **Instagram:** [📸 @islandboy_mv](https://instagram.com/islandboy_mv)
+- **Facebook:** [📘 IslandBoyMv](https://facebook.com/islandboymv)
