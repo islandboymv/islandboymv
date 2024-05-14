@@ -13,21 +13,18 @@ I specialize in creating efficient and scalable web applications using **PHP** a
 - **Web Development:** Crafting robust web applications with PHP Laravel.
 - **Server Management:** Managing servers and maintaining a self-hosted homelab.
 - **Containerization:** Utilizing Docker for containerized application deployment.
+- **Cloud Services:** Working with Cloudflare for DNS and security, and DigitalOcean for cloud hosting.
+- **Virtualization:** Utilizing Proxmox VE for virtual environments.
 
 ### Tech Stack
 - **Languages:** PHP, JavaScript, HTML, CSS
 - **Frameworks:** Laravel, Vue.js
-- **Tools:** Docker, Git, Nginx
+- **Tools:** Docker, Git, Nginx, Proxmox VE
 - **Databases:** MySQL, PostgreSQL
+- **Cloud Services:** Cloudflare, DigitalOcean
 
 ### Get in Touch
-- **Email:** [mifzaal@example.com](mailto:mifzaal@example.com)
-- **LinkedIn:** [linkedin.com/in/mifzaal](https://linkedin.com/in/mifzaal)
+- **Email:** [admin@islandboy.mv](mailto:admin@islandboy.mv)
 - **Twitter:** [@IslandBoyMv](https://twitter.com/IslandBoyMv)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IslandBoyMv&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslandBoyMv&layout=compact&theme=radical)
-
+- **Instagram:** [@islandboy_mv](https://instagram.com/islandboy_mv)
+- **Facebook:** [IslandBoyMv](https://facebook.com/islandboymv)
