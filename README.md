@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Mifzaal Abdul Baari! 👋
 
-<!--
-**islandboymv/islandboymv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Also known as IslandBoyMv
 
-Here are some ideas to get you started:
+🌍 **Full Stack Developer | Self-taught Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+I specialize in creating efficient and scalable web applications using **PHP** and **Laravel**. With a strong foundation in both front-end and back-end development, I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+
+### What I Do
+- **Web Development:** Crafting robust web applications with PHP Laravel.
+- **Server Management:** Managing servers and maintaining a self-hosted homelab.
+- **Containerization:** Utilizing Docker for containerized application deployment.
+
+### Tech Stack
+- **Languages:** PHP, JavaScript, HTML, CSS
+- **Frameworks:** Laravel, Vue.js
+- **Tools:** Docker, Git, Nginx
+- **Databases:** MySQL, PostgreSQL
+
+### Get in Touch
+- **Email:** [mifzaal@example.com](mailto:mifzaal@example.com)
+- **LinkedIn:** [linkedin.com/in/mifzaal](https://linkedin.com/in/mifzaal)
+- **Twitter:** [@IslandBoyMv](https://twitter.com/IslandBoyMv)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IslandBoyMv&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslandBoyMv&layout=compact&theme=radical)
+
