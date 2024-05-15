@@ -5,8 +5,14 @@
 🌍 **Full Stack Developer | Self-taught Enthusiast** 🚀
 
 ---
-![Top Langs](https://github-readme-stats-ten-nu-28.vercel.app/api/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact&show_icons=true&rank_icon=github&include_all_commits=true)
-![Top Langs](https://github-readme-stats-ten-nu-28.vercel.app/api/top-langs/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact)
+<div align="left">
+<a href="https://github.com/islandboymv/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats-ten-nu-28.vercel.app/api/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact&show_icons=true&rank_icon=github&include_all_commits=true" />
+</a>
+<a href="https://github.com/islandboymv/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats-ten-nu-28.vercel.app/api/top-langs/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact" />
+</a>
+</div>
 
 ### About Me ℹ️
 I specialize in creating efficient and scalable web applications using **PHP** and **Laravel**. With a strong foundation in both front-end and back-end development, I enjoy turning complex problems into simple, beautiful, and intuitive designs.
