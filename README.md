@@ -68,7 +68,7 @@ I specialize in creating efficient and scalable web applications using **PHP** a
 ![Discord](https://skillicons.dev/icons?i=discord&theme=dark)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats-theta-self-66.vercel.app/api/top-langs/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true)
+![Top Langs](https://github-readme-stats-ten-nu-28.vercel.app/api/top-langs/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact)
 
 ### Get in Touch 📲
 - **Email:** [admin@islandboy.mv](mailto:admin@islandboy.mv)
