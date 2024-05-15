@@ -5,6 +5,8 @@
 🌍 **Full Stack Developer | Self-taught Enthusiast** 🚀
 
 ---
+![Top Langs](https://github-readme-stats-ten-nu-28.vercel.app/api/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact&show_icons=true&rank_icon=github&include_all_commits=true)
+![Top Langs](https://github-readme-stats-ten-nu-28.vercel.app/api/top-langs/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact)
 
 ### About Me ℹ️
 I specialize in creating efficient and scalable web applications using **PHP** and **Laravel**. With a strong foundation in both front-end and back-end development, I enjoy turning complex problems into simple, beautiful, and intuitive designs.
@@ -55,7 +57,7 @@ I specialize in creating efficient and scalable web applications using **PHP** a
 
 #### Cloud & DevOps
 ![Cloudflare](https://skillicons.dev/icons?i=cloudflare&theme=dark)
-![DigitalOcean](https://skillicons.dev/icons?i=digitalocean&theme=dark)
+![DigitalOcean](https://go-skill-icons.vercel.app/api/icons?i=digitalocean&theme=dark)
 ![GCP](https://skillicons.dev/icons?i=gcp&theme=dark)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=dark)
 ![Grafana](https://skillicons.dev/icons?i=grafana&theme=dark)
@@ -66,9 +68,6 @@ I specialize in creating efficient and scalable web applications using **PHP** a
 
 #### Communication
 ![Discord](https://skillicons.dev/icons?i=discord&theme=dark)
-
-### Most Used Languages
-![Top Langs](https://github-readme-stats-ten-nu-28.vercel.app/api/top-langs/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact)
 
 ### Get in Touch 📲
 - **Email:** [admin@islandboy.mv](mailto:admin@islandboy.mv)
