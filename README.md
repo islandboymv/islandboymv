@@ -72,3 +72,6 @@ I specialize in creating efficient and scalable web applications using **PHP** a
 - **Twitter:** [❌ @IslandBoyMv](https://twitter.com/IslandBoyMv)
 - **Instagram:** [📸 @islandboy_mv](https://instagram.com/islandboy_mv)
 - **Facebook:** [📘 IslandBoyMv](https://facebook.com/islandboymv)
+
+
+<a href="#">![Top Langs](https://github-readme-stats-git-master-islandboymvs-projects.vercel.app/api/top-langs/?username=islandboymv&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
