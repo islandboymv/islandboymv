@@ -7,10 +7,10 @@
 ---
 <div align="left">
 <a href="https://github.com/islandboymv/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats-ten-nu-28.vercel.app/api/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact&show_icons=true&rank_icon=github&include_all_commits=true" />
+  <img height=150 align="center" src="https://stats.git.islandboy.mv/api/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact&show_icons=true&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/islandboymv/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats-ten-nu-28.vercel.app/api/top-langs/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact" />
+  <img height=150 align="center" src="https://stats.git.islandboy.mv/api/top-langs/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact" />
 </a>
 </div>
 
