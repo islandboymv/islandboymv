@@ -28,52 +28,52 @@ I specialize in creating efficient and scalable web applications using **PHP** a
 ### Tech Stack 🛠️
 
 #### Languages
-![PHP](https://skillicons.dev/icons?i=php&theme=dark)
-![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
-![HTML](https://skillicons.dev/icons?i=html&theme=dark)
-![CSS](https://skillicons.dev/icons?i=css&theme=dark)
-![C](https://skillicons.dev/icons?i=c&theme=dark)
-![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+![PHP](https://icons.git.islandboy.mv/api/icons?i=php&theme=dark)
+![JavaScript](https://icons.git.islandboy.mv/api/icons?i=js&theme=dark)
+![HTML](https://icons.git.islandboy.mv/api/icons?i=html&theme=dark)
+![CSS](https://icons.git.islandboy.mv/api/icons?i=css&theme=dark)
+![C](https://icons.git.islandboy.mv/api/icons?i=c&theme=dark)
+![C++](https://icons.git.islandboy.mv/api/icons?i=cpp&theme=dark)
 
 #### Frameworks & Libraries
-![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)
-![Vue.js](https://skillicons.dev/icons?i=vue&theme=dark)
-![Alpine.js](https://skillicons.dev/icons?i=alpinejs&theme=dark)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
-![Sass](https://skillicons.dev/icons?i=sass&theme=dark)
+![Laravel](https://icons.git.islandboy.mv/api/icons?i=laravel&theme=dark)
+![Vue.js](https://icons.git.islandboy.mv/api/icons?i=vue&theme=dark)
+![Alpine.js](https://icons.git.islandboy.mv/api/icons?i=alpinejs&theme=dark)
+![Bootstrap](https://icons.git.islandboy.mv/api/icons?i=bootstrap&theme=dark)
+![Tailwind CSS](https://icons.git.islandboy.mv/api/icons?i=tailwind&theme=dark)
+![Sass](https://icons.git.islandboy.mv/api/icons?i=sass&theme=dark)
 
 #### Tools & Platforms
-![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
-![Git](https://skillicons.dev/icons?i=git&theme=dark)
-![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)
-![Nginx](https://skillicons.dev/icons?i=nginx&theme=dark)
-![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
-![Figma](https://skillicons.dev/icons?i=figma&theme=dark)
-![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
-![PhpStorm](https://skillicons.dev/icons?i=phpstorm&theme=dark)
-![CLion](https://skillicons.dev/icons?i=clion&theme=dark)
-![WordPress](https://skillicons.dev/icons?i=wordpress&theme=dark)
+![Docker](https://icons.git.islandboy.mv/api/icons?i=docker&theme=dark)
+![Git](https://icons.git.islandboy.mv/api/icons?i=git&theme=dark)
+![GitHub](https://icons.git.islandboy.mv/api/icons?i=github&theme=dark)
+![GitHub Actions](https://icons.git.islandboy.mv/api/icons?i=githubactions&theme=dark)
+![Nginx](https://icons.git.islandboy.mv/api/icons?i=nginx&theme=dark)
+![Postman](https://icons.git.islandboy.mv/api/icons?i=postman&theme=dark)
+![Figma](https://icons.git.islandboy.mv/api//icons?i=figma&theme=dark)
+![VSCode](https://icons.git.islandboy.mv/api/icons?i=vscode&theme=dark)
+![PhpStorm](https://icons.git.islandboy.mv/api/icons?i=phpstorm&theme=dark)
+![CLion](https://icons.git.islandboy.mv/api/icons?i=clion&theme=dark)
+![WordPress](https://icons.git.islandboy.mv/api/icons?i=wordpress&theme=dark)
 
 #### Databases
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
-![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)
+![MySQL](https://icons.git.islandboy.mv/api/icons?i=mysql&theme=dark)
+![PostgreSQL](https://icons.git.islandboy.mv/api/icons?i=postgres&theme=dark)
+![SQLite](https://icons.git.islandboy.mv/api/icons?i=sqlite&theme=dark)
 
 #### Cloud & DevOps
-![Cloudflare](https://skillicons.dev/icons?i=cloudflare&theme=dark)
-![DigitalOcean](https://go-skill-icons.vercel.app/api/icons?i=digitalocean&theme=dark)
-![GCP](https://skillicons.dev/icons?i=gcp&theme=dark)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=dark)
-![Grafana](https://skillicons.dev/icons?i=grafana&theme=dark)
+![Cloudflare](https://icons.git.islandboy.mv/api/icons?i=cloudflare&theme=dark)
+![DigitalOcean](https://icons.git.islandboy.mv/api/icons?i=digitalocean&theme=dark)
+![GCP](https://icons.git.islandboy.mv/api/icons?i=gcp&theme=dark)
+![Kubernetes](https://icons.git.islandboy.mv/api/icons?i=kubernetes&theme=dark)
+![Grafana](https://icons.git.islandboy.mv/api/icons?i=grafana&theme=dark)
 
 #### Operating Systems
-![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)
+![Linux](https://icons.git.islandboy.mv/api/icons?i=linux&theme=dark)
+![Ubuntu](https://icons.git.islandboy.mv/api/icons?i=ubuntu&theme=dark)
 
 #### Communication
-![Discord](https://skillicons.dev/icons?i=discord&theme=dark)
+![Discord](https://icons.git.islandboy.mv/api/icons?i=discord&theme=dark)
 
 ### Get in Touch 📲
 - **Email:** [admin@islandboy.mv](mailto:admin@islandboy.mv)
