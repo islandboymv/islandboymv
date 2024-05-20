@@ -5,26 +5,6 @@
 🌍 **Full Stack Developer | Self-taught Enthusiast** 🚀
 
 ---
-<div align="left">
-<a href="https://github.com/islandboymv/github-readme-stats">
-  <img height=150 align="center" src="https://stats.git.islandboy.mv/api/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact&show_icons=true&rank_icon=github&include_all_commits=true" />
-</a>
-<a href="https://github.com/islandboymv/github-readme-stats">
-  <img height=150 align="center" src="https://stats.git.islandboy.mv/api/top-langs/?username=islandboymv&private_count=true&theme=blueberry&hide_border=true&layout=compact" />
-</a>
-</div>
-
-### About Me ℹ️
-I specialize in creating efficient and scalable web applications using **PHP** and **Laravel**. With a strong foundation in both front-end and back-end development, I enjoy turning complex problems into simple, beautiful, and intuitive designs.
-
-### What I Do 💻
-- **Web Development:** Crafting robust web applications with PHP Laravel.
-- **Server Management:** Managing servers and maintaining a self-hosted homelab.
-- **Containerization:** Utilizing Docker for containerized application deployment.
-- **Cloud Services:** Working with Cloudflare for DNS and security, and DigitalOcean for cloud hosting.
-- **Virtualization:** Utilizing Proxmox VE for virtual environments.
-- **Scouting:** Serving as the Headquarter Commissioner ICT at [The Scout Association of Maldives](https://scout.mv).
-
 ### Tech Stack 🛠️
 
 #### Languages
