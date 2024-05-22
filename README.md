@@ -28,52 +28,52 @@ I specialize in creating efficient and scalable web applications using **PHP** a
 ### Tech Stack 🛠️
 
 #### Languages
-![PHP](https://icons.islandboy.mv/icons?i=php&theme=dark)
-![JavaScript](https://icons.islandboy.mv/icons?i=js&theme=dark)
-![HTML](https://icons.islandboy.mv/icons?i=html&theme=dark)
-![CSS](https://icons.islandboy.mv/icons?i=css&theme=dark)
-![C](https://icons.islandboy.mv/icons?i=c&theme=dark)
-![C++](https://icons.islandboy.mv/icons?i=cpp&theme=dark)
+![PHP](https://go-skill-icons.vercel.app/api/icons?i=php&theme=dark)
+![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js&theme=dark)
+![HTML](https://go-skill-icons.vercel.app/api/icons?i=html&theme=dark)
+![CSS](https://go-skill-icons.vercel.app/api/icons?i=css&theme=dark)
+![C](https://go-skill-icons.vercel.app/api/icons?i=c&theme=dark)
+![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&theme=dark)
 
 #### Frameworks & Libraries
-![Laravel](https://icons.islandboy.mv/icons?i=laravel&theme=dark)
-![Vue.js](https://icons.islandboy.mv/icons?i=vue&theme=dark)
-![Alpine.js](https://icons.islandboy.mv/icons?i=alpinejs&theme=dark)
-![Bootstrap](https://icons.islandboy.mv/icons?i=bootstrap&theme=dark)
-![Tailwind CSS](https://icons.islandboy.mv/icons?i=tailwind&theme=dark)
-![Sass](https://icons.islandboy.mv/icons?i=sass&theme=dark)
+![Laravel](https://go-skill-icons.vercel.app/api/icons?i=laravel&theme=dark)
+![Vue.js](https://go-skill-icons.vercel.app/api/icons?i=vue&theme=dark)
+![Alpine.js](https://go-skill-icons.vercel.app/api/icons?i=alpinejs&theme=dark)
+![Bootstrap](https://go-skill-icons.vercel.app/api/icons?i=bootstrap&theme=dark)
+![Tailwind CSS](https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark)
+![Sass](https://go-skill-icons.vercel.app/api/icons?i=sass&theme=dark)
 
 #### Tools & Platforms
-![Docker](https://icons.islandboy.mv/icons?i=docker&theme=dark)
-![Git](https://icons.islandboy.mv/icons?i=git&theme=dark)
-![GitHub](https://icons.islandboy.mv/icons?i=github&theme=dark)
-![GitHub Actions](https://icons.islandboy.mv/icons?i=githubactions&theme=dark)
-![Nginx](https://icons.islandboy.mv/icons?i=nginx&theme=dark)
-![Postman](https://icons.islandboy.mv/icons?i=postman&theme=dark)
-![Figma](https://icons.islandboy.mv//icons?i=figma&theme=dark)
-![VSCode](https://icons.islandboy.mv/icons?i=vscode&theme=dark)
-![PhpStorm](https://icons.islandboy.mv/icons?i=phpstorm&theme=dark)
-![CLion](https://icons.islandboy.mv/icons?i=clion&theme=dark)
-![WordPress](https://icons.islandboy.mv/icons?i=wordpress&theme=dark)
+![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark)
+![Git](https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark)
+![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark)
+![GitHub Actions](https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark)
+![Nginx](https://go-skill-icons.vercel.app/api/icons?i=nginx&theme=dark)
+![Postman](https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark)
+![Figma](https://go-skill-icons.vercel.app/api//icons?i=figma&theme=dark)
+![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark)
+![PhpStorm](https://go-skill-icons.vercel.app/api/icons?i=phpstorm&theme=dark)
+![CLion](https://go-skill-icons.vercel.app/api/icons?i=clion&theme=dark)
+![WordPress](https://go-skill-icons.vercel.app/api/icons?i=wordpress&theme=dark)
 
 #### Databases
-![MySQL](https://icons.islandboy.mv/icons?i=mysql&theme=dark)
-![PostgreSQL](https://icons.islandboy.mv/icons?i=postgres&theme=dark)
-![SQLite](https://icons.islandboy.mv/icons?i=sqlite&theme=dark)
+![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark)
+![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark)
+![SQLite](https://go-skill-icons.vercel.app/api/icons?i=sqlite&theme=dark)
 
 #### Cloud & DevOps
-![Cloudflare](https://icons.islandboy.mv/icons?i=cloudflare&theme=dark)
-![DigitalOcean](https://icons.islandboy.mv/icons?i=digitalocean&theme=dark)
-![GCP](https://icons.islandboy.mv/icons?i=gcp&theme=dark)
-![Kubernetes](https://icons.islandboy.mv/icons?i=kubernetes&theme=dark)
-![Grafana](https://icons.islandboy.mv/icons?i=grafana&theme=dark)
+![Cloudflare](https://go-skill-icons.vercel.app/api/icons?i=cloudflare&theme=dark)
+![DigitalOcean](https://go-skill-icons.vercel.app/api/icons?i=digitalocean&theme=dark)
+![GCP](https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark)
+![Kubernetes](https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark)
+![Grafana](https://go-skill-icons.vercel.app/api/icons?i=grafana&theme=dark)
 
 #### Operating Systems
-![Linux](https://icons.islandboy.mv/icons?i=linux&theme=dark)
-![Ubuntu](https://icons.islandboy.mv/icons?i=ubuntu&theme=dark)
+![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark)
+![Ubuntu](https://go-skill-icons.vercel.app/api/icons?i=ubuntu&theme=dark)
 
 #### Communication
-![Discord](https://icons.islandboy.mv/icons?i=discord&theme=dark)
+![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark)
 
 ### Get in Touch 📲
 - **Email:** [admin@islandboy.mv](mailto:admin@islandboy.mv)
